@@ -18,7 +18,7 @@ Use it with **watchr**:
 **repl_reload** options:
 
 * **:host** is the host to connect to *(default: 127.0.0.1)*
-* **:post** is the post to connect to *(default: 4242)*
+* **:port** is the post to connect to *(default: 4242)*
 * **:jasmine_matcher** is the address in the address bar to search for *(default: "localhost:8888")*
 * **:echo_to_console** writes the success/failure message to the console in red/green *(default: false)*
 
