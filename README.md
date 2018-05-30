@@ -1,4 +1,4 @@
-Reload [Jasmine](http://pivotal.github.com/jasmine/) test suites in Firefox using [MozRepl](https://github.com/bard/mozrepl) and this lovely gem.
+Reload [Jasmine](https://jasmine.github.io/) test suites in Firefox using [MozRepl](https://github.com/bard/mozrepl) and this lovely gem.
 
 Use it with **watchr**:
 
